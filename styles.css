@@ -3,24 +3,6 @@ body {
     color: white;
 }
 
-strong {
-    color: rgb(4, 104, 17);
+.titulo-destaque {
+    color:rgb(6, 80, 13)
 }
-
-h1 {
-    color: #333333;
-    }
-
-h2 {
-    color: #333333;
-}
-
-p {
-    color: #333333;
-}
-
-button {
-    background-color: rgb(36, 212, 197);
-    color: white;
-}
-
