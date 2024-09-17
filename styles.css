@@ -1,8 +1,15 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
 body {
+    height: 100vh;
+    box-sizing: border-box;
     background-color: #20b342;
     color: white;
 }
 
 .titulo-destaque {
-    color:rgb(6, 80, 13)
+    color:rgb(6, 80, 13);
 }
